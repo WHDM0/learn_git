@@ -1,5 +1,6 @@
 		----xinzengxiugai
 		----xingfu
+		----tianjing
 		with DW_TMP_ORG AS (
 			SELECT DISTINCT 'BRA' ORG_LEVEL,
 				FILIALE_ID      SUBCOMPANY_ID,
