@@ -1,4 +1,5 @@
-	with DW_TMP_ORG AS (
+		----xinzengxiugai
+		with DW_TMP_ORG AS (
 			SELECT DISTINCT 'BRA' ORG_LEVEL,
 				FILIALE_ID      SUBCOMPANY_ID,
 				FILIALE_NAME    SUBCOMPANY_NAME,
